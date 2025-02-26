@@ -21,4 +21,4 @@ I am a teaching-focused faculty member in the Computer Science and Engineering d
 
 I've been teaching for a couple decades at a few different institutions. Prior to joining U-M, I was an Associate Professor of Computer Science at DePauw University. I love CS, and I love working with students to help them learn challenging concepts. I've taught a wide range of courses, with a focus on introductory courses and those related to AI, ML, and data science.
 
-![My LinkedIn Profile](https://www.linkedin.com/in/sbogaerts/)
+[My LinkedIn Profile](https://www.linkedin.com/in/sbogaerts/)
